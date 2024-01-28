@@ -1,5 +1,5 @@
 # SimpleFileSystem
-Simple file read and write.
+Simple file read and write for save data.
 
 I made this to use in my game. But anyone can use it freely.
 
