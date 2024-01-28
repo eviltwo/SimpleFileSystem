@@ -1,0 +1,19 @@
+{
+    "name": "com.eviltwo.simple-file-system",
+    "displayName": "Simple File System", 
+    "version": "1.0.0",             
+    "unity": "2022.3",
+    "description": "Simple file read and write.",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+        "file",
+        "save"
+    ],
+
+    "dependencies": {
+    },
+}
