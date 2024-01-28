@@ -1,0 +1,16 @@
+{
+    "name": "SimpleFileSystem.Sample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5e6c0c4ec68211440967ebd0c6dad1ba"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
